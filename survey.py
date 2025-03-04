@@ -4,7 +4,7 @@ from managers.test_manager import test_manager
 from managers.db_manager import db_manager
 
 
-st.title('Data Classification Survey')
+st.title('Survey on Human Recognizable Images in Image Classification')
 
 PROFFESSION_LIST = [
     "Employed (Full-Time)",
