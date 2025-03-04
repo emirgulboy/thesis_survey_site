@@ -1,0 +1,1 @@
+[{"image_path": "../data/Fashion-MNIST\\test\\7\\8764.png", "true_class": "7", "possible_classes": ["4", "2", "9", "7"], "correct": false}, {"image_path": "../data/Fashion-MNIST\\test\\7\\5611.png", "true_class": "7", "possible_classes": ["6", "7", "4", "0"], "correct": false}]

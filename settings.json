@@ -1,0 +1,16 @@
+{
+    "MNIST": {
+        "classes": 10,
+        "select_out_of": 4,
+        "test_size": 1,
+        "data_path": "./data/mnist",
+        "examples": "./data/mnist/examples.json"
+    },
+    "MNIST-Latitia": {
+        "classes": 10,
+        "select_out_of": 4,
+        "test_size": 1,
+        "data_path": "./data/mnist/latitia",
+        "examples": "./data/mnist/examples.json"
+    }
+}

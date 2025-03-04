@@ -1,0 +1,6 @@
+*pycache*
+./results.jsonl
+.streamlit
+paths
+data/*/*.png
+data/*/id*.json

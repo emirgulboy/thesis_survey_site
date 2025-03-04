@@ -1,0 +1,17 @@
+{
+    "0":{
+        "gt_class": 0,
+        "gt_classname": "0",
+        "img_path": "data/mnist/examples/0.png"
+    },
+    "6":{
+        "gt_class": 6,
+        "gt_classname": "6",
+        "img_path": "data/mnist/examples/6.png"
+    },
+    "7":{
+        "gt_class": 7,
+        "gt_classname": "7",
+        "img_path": "data/mnist/examples/7.png"
+    }
+}
